@@ -12,7 +12,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>Python</h3>
-              <span className='skills__level'>Advanced</span>
             </div>
           </div>
 
@@ -21,7 +20,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>Java</h3>
-              <span className='skills__level'>Advanced</span>
             </div>
           </div>
 
@@ -30,7 +28,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>C</h3>
-              <span className='skills__level'>Advanced</span>
             </div>
           </div>
         </div>
@@ -41,7 +38,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>C#</h3>
-              <span className='skills__level'>Intermediate</span>
             </div>
           </div>
 
@@ -50,7 +46,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>Assembly Arm Architecture</h3>
-              <span className='skills__level'>Intermediate</span>
             </div>
           </div>
           <div className='skills__data'>
@@ -58,7 +53,6 @@ const Frontend = () => {
 
             <div>
               <h3 className='skills__name'>Swift</h3>
-              <span className='skills__level'>Intermediate</span>
             </div>
           </div>
         </div>
