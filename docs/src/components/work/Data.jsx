@@ -13,18 +13,21 @@ export const projectsData = [
     image: Work6,
     title: 'ApexAI',
     category: 'App',
+    href: "https://devpost.com/software/apexai"
   },
   {
     id: 2,
     image: Work2,
     title: 'Receipt Scanner',
     category: 'App',
+    href:'https://drive.google.com/file/d/14qK0DIuD9oJ2KBy60Jas4dxNb31Aoj5r/view?usp=sharing'
   },
   {
     id: 3,
     image: Work3,
     title: 'Construction Chatbot',
     category: 'Web Design',
+    href: 'https://cute-dasik-1067fe.netlify.app/'
   },
   {
     id: 5,

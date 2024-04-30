@@ -60,7 +60,7 @@ const Data = () => {
         Hi I'm a student at the University of Texas at Austin studying computer science. I am very passionate about technology and I am a driven and motivated individual. Check out some projects I have made in the section below.
       </p>
 
-      <a href="https://olive-ronny-74.tiiny.site" className='button button--flex' target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/11W0PxnMkRNIzSVODM9853Oitq76udBvb/view?usp=sharing" className='button button--flex' target="_blank" rel="noopener noreferrer">
   Download Resume
   <svg
     className='button__icon'
